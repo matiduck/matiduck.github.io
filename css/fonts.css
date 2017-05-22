@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'animatic';
+  font-style: normal;
+  src: url('../fonts/AmaticSC-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'animatic-bold';
+  font-style: normal;
+  src: url('../fonts/Amatic-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'bonventoCF';
+  font-style: normal;
+  src: url('../fonts/BonvenoCF-Light.otf') format('truetype');
+}
